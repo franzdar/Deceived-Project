@@ -1,4 +1,23 @@
-Open DeceivedVN.exe to run the game :))
+================================= DECEIVED =================================
+============================== G2 Productions ==============================
 
-Some functions are still not implemented and 
-the game's story is yet to be updated. Stay Tuned!
+
+\\ GAME VERSIONS INCLUSIONS:
+DeceivedVN.rar: 
+	This is the build we used for the game's presentation pitch.
+
+
+\\ GAME CONTROLS:
+Mouse - Navigation and Interaction
+
+
+
+\\ STEP-BY-STEP INSTALLATION GUIDE:
+1. Download and extract "DeceivedVN.rar"
+2. Open the extracted folder "DeceivedVN".
+3. Open the executable file "DeceivedVN.exe"
+4. Enjoy!
+
+
+
+================================= THANK YOU! =================================
