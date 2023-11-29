@@ -3,7 +3,7 @@
 
 
 \\ GAME VERSIONS INCLUSIONS:
-DeceivedVN.rar: 
+DeceivedVN.exe: 
 	This is the build we used for the game's presentation pitch.
 
 
