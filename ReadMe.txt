@@ -18,4 +18,7 @@ Mouse - Navigation and Interaction
 3. Open the extracted folder in Unity then Click Play or open "DeceivedVN.exe"
 
 
+Note: Deceived is also available to be downloaded in my website.
+
+
 ================================= THANK YOU! =================================
